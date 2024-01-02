@@ -1,2 +1,3 @@
 Hi, This is the first line.
 This line is in original file.
+Another person added new file.
